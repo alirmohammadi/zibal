@@ -1,0 +1,13 @@
+{
+    "name": "alirmohammadi/zibal",
+    "description": "laravel packge for online payment by zibal",
+    "type": "library",
+    "authors": [
+        {
+            "name": "alireza",
+            "email": "ar_mohammady@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
